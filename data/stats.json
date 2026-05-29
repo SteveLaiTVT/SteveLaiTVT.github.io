@@ -1,0 +1,120 @@
+{
+  "chapters": {
+    "chaotui-01": {
+      "views": 4,
+      "visitors": 3
+    },
+    "chaotui-02": {
+      "views": 2,
+      "visitors": 2
+    },
+    "chaotui-03": {
+      "views": 2,
+      "visitors": 2
+    },
+    "chaotui-04": {
+      "views": 2,
+      "visitors": 2
+    },
+    "chaotui-05": {
+      "views": 2,
+      "visitors": 2
+    },
+    "chaotui-06": {
+      "views": 1,
+      "visitors": 1
+    },
+    "chaotui-07": {
+      "views": 1,
+      "visitors": 1
+    },
+    "chaotui-18": {
+      "views": 1,
+      "visitors": 1
+    },
+    "chapter-01": {
+      "views": 1,
+      "visitors": 1
+    },
+    "chapter-02": {
+      "views": 2,
+      "visitors": 1
+    },
+    "chapter-03": {
+      "views": 3,
+      "visitors": 1
+    },
+    "chapter-44": {
+      "views": 1,
+      "visitors": 1
+    },
+    "chapter-45": {
+      "views": 1,
+      "visitors": 1
+    }
+  },
+  "seen": {
+    "chapters": {
+      "chaotui-01": [
+        "8ddd251721b1fa547bc52d4c9df5d665e9fe4faf1a8cc77aaa1fded88c1b19b2",
+        "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827",
+        "87c907dbf7ab5eba1d933dfc8f0fcec6f54afe6e9a203678fb28b695ac44a899"
+      ],
+      "chaotui-02": [
+        "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827",
+        "87c907dbf7ab5eba1d933dfc8f0fcec6f54afe6e9a203678fb28b695ac44a899"
+      ],
+      "chaotui-03": [
+        "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827",
+        "87c907dbf7ab5eba1d933dfc8f0fcec6f54afe6e9a203678fb28b695ac44a899"
+      ],
+      "chaotui-04": [
+        "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827",
+        "87c907dbf7ab5eba1d933dfc8f0fcec6f54afe6e9a203678fb28b695ac44a899"
+      ],
+      "chaotui-05": [
+        "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827",
+        "87c907dbf7ab5eba1d933dfc8f0fcec6f54afe6e9a203678fb28b695ac44a899"
+      ],
+      "chaotui-06": [
+        "87c907dbf7ab5eba1d933dfc8f0fcec6f54afe6e9a203678fb28b695ac44a899"
+      ],
+      "chaotui-07": [
+        "87c907dbf7ab5eba1d933dfc8f0fcec6f54afe6e9a203678fb28b695ac44a899"
+      ],
+      "chaotui-18": [
+        "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827"
+      ],
+      "chapter-01": [
+        "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827"
+      ],
+      "chapter-02": [
+        "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827"
+      ],
+      "chapter-03": [
+        "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827"
+      ],
+      "chapter-44": [
+        "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827"
+      ],
+      "chapter-45": [
+        "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827"
+      ]
+    },
+    "site": [
+      "d5d9741be74d6577f7d428abcd7fc5d06058b1c8ec9c60537735c87eba02c827",
+      "8ddd251721b1fa547bc52d4c9df5d665e9fe4faf1a8cc77aaa1fded88c1b19b2",
+      "e0987ba9a92b27d765390b538f7f1455658b1bcf570400e672f59fa9b5fd63e9",
+      "05b3ca87b0e4010f93a4a9be5e48b4dc40e3b254a13d923f8a71800c2d7825d5",
+      "87c907dbf7ab5eba1d933dfc8f0fcec6f54afe6e9a203678fb28b695ac44a899",
+      "6f1ef03c036a732ae329feec2dfb95319a4bfc904ae4d3d4491c71d6e3c53445",
+      "4cefd03e6d3a70210c9e28e7694c6e1cd35b8c7adc2f508e596dc422b1b6e09b"
+    ]
+  },
+  "site": {
+    "views": 31,
+    "visitors": 7
+  },
+  "updatedAt": "2026-05-29T07:43:48+00:00",
+  "version": 1
+}

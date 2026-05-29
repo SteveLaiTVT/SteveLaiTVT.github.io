@@ -1,0 +1,11 @@
+/* TEAM */
+Author: 观流夫
+Site: https://stevelaitvt.github.io/
+Repository: https://github.com/SteveLaiTVT/SteveLaiTVT.github.io
+
+/* SITE */
+Language: zh-CN
+Content: Chinese serial fiction, historical fiction, modern realistic fiction
+Canonical: https://stevelaitvt.github.io/
+Sitemap: https://stevelaitvt.github.io/sitemap.xml
+RSS: https://stevelaitvt.github.io/feed.xml

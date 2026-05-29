@@ -1,0 +1,95 @@
+# 观流夫书架
+
+观流夫书架收录《水关未开》《潮退以前》等连载小说，写历史夹缝和现代城市里普通人的选择。
+
+Author: 观流夫
+Canonical: https://stevelaitvt.github.io/
+Sitemap: https://stevelaitvt.github.io/sitemap.xml
+Copyright: Copyright © 2026 观流夫。保留作品名、作者、原始链接和本版权声明时，允许搜索引擎、阅读器和爬虫抓取、索引、摘要与推荐书架作品。
+Usage: 转载、摘录、镜像、数据集收录或其他二次使用抓取内容时，必须带上作品名、作者观流夫、原始链接和版权声明；不得删除署名或伪作原创来源。
+
+## 水关未开
+
+无名无印的守城者，在历史夹缝中守住一扇不能开的水关，也守住自己不肯交出去的东西。
+
+Book page: https://stevelaitvt.github.io/books/shuiguan-wei-kai.html
+
+元末，无锡。旧州衙空了两年多，公座无人敢坐。莫天祐不是知州，不是通判，只是聚了一些人守着水关，不让流兵溃卒进来抢粮。他手里只有半枚旧闸钥齿——不是钥匙，是一截断在往事里的铁，提醒他开闸的代价。 张士诚的使者来了。不攻城，不骂阵，只递一封帛书、一方私印，请莫天祐“率无锡丁壮粮船合势”。使者薛怀简识水利、懂账册、看得见闸板上的新撞痕，也看得见那张空椅子背后的缝隙。莫天祐用名分挡住他：我不是官，交不了粮簿丁壮册。可名分是挡箭牌，也可能是绞索。 水关未开。但围城者的耐心比城墙更长。他们占北栅、堵水道、沉船改流，把无锡困成一座还会喘气的棺材。义仓的米一天天少下去，父老们在保仓与保闸之间分裂，旧账翻出来桩桩烫手。城外开始问价——不开水关，城里要什么价？而城里的伤口、账册、人心，正被一样样看清。 一座无主之城，一个无名之人，一扇不能开也不敢开的水关。历史的潮水已漫到脚下。
+
+### Chapters
+
+- [第一章 不受书](https://stevelaitvt.github.io/chapters/chapter-01.html)
+- [第二章 攻而不克](https://stevelaitvt.github.io/chapters/chapter-02.html)
+- [第三章 名分](https://stevelaitvt.github.io/chapters/chapter-03.html)
+- [第四章 议仓](https://stevelaitvt.github.io/chapters/chapter-04.html)
+- [第五章 旧票](https://stevelaitvt.github.io/chapters/chapter-05.html)
+- [第六章 问价](https://stevelaitvt.github.io/chapters/chapter-06.html)
+- [第七章 回文](https://stevelaitvt.github.io/chapters/chapter-07.html)
+- [第八章 补册](https://stevelaitvt.github.io/chapters/chapter-08.html)
+- [第九章 用印](https://stevelaitvt.github.io/chapters/chapter-09.html)
+- [第十章 水尺](https://stevelaitvt.github.io/chapters/chapter-10.html)
+- [第十一章 半封](https://stevelaitvt.github.io/chapters/chapter-11.html)
+- [第十二章 夜轮](https://stevelaitvt.github.io/chapters/chapter-12.html)
+- [第十三章 点验](https://stevelaitvt.github.io/chapters/chapter-13.html)
+- [第十四章 断粥](https://stevelaitvt.github.io/chapters/chapter-14.html)
+- [第十五章 清水](https://stevelaitvt.github.io/chapters/chapter-15.html)
+- [第十六章 半箭](https://stevelaitvt.github.io/chapters/chapter-16.html)
+- [第十七章 断绳](https://stevelaitvt.github.io/chapters/chapter-17.html)
+- [第十八章 守事](https://stevelaitvt.github.io/chapters/chapter-18.html)
+- [第十九章 钩船](https://stevelaitvt.github.io/chapters/chapter-19.html)
+- [第二十章 空锅](https://stevelaitvt.github.io/chapters/chapter-20.html)
+- [第二十一章 白桩](https://stevelaitvt.github.io/chapters/chapter-21.html)
+- [第二十二章 入泥](https://stevelaitvt.github.io/chapters/chapter-22.html)
+- [第二十三章 退饭](https://stevelaitvt.github.io/chapters/chapter-23.html)
+- [第二十四章 半门](https://stevelaitvt.github.io/chapters/chapter-24.html)
+- [第二十五章 湿灶](https://stevelaitvt.github.io/chapters/chapter-25.html)
+- [第二十六章 夜桩](https://stevelaitvt.github.io/chapters/chapter-26.html)
+- [第二十七章 后水道](https://stevelaitvt.github.io/chapters/chapter-27.html)
+- [第二十八章 沉船](https://stevelaitvt.github.io/chapters/chapter-28.html)
+- [第二十九章 种豆](https://stevelaitvt.github.io/chapters/chapter-29.html)
+- [第三十章 插尺](https://stevelaitvt.github.io/chapters/chapter-30.html)
+- [第三十一章 断尺](https://stevelaitvt.github.io/chapters/chapter-31.html)
+- [第三十二章 浊水](https://stevelaitvt.github.io/chapters/chapter-32.html)
+- [第三十三章 印影](https://stevelaitvt.github.io/chapters/chapter-33.html)
+- [第三十四章 夜渡](https://stevelaitvt.github.io/chapters/chapter-34.html)
+- [第三十五章 公座](https://stevelaitvt.github.io/chapters/chapter-35.html)
+- [第三十六章 放浊](https://stevelaitvt.github.io/chapters/chapter-36.html)
+- [第三十七章 灶砖](https://stevelaitvt.github.io/chapters/chapter-37.html)
+- [第三十八章 空廒](https://stevelaitvt.github.io/chapters/chapter-38.html)
+- [第三十九章 验水](https://stevelaitvt.github.io/chapters/chapter-39.html)
+- [第四十章 沉门](https://stevelaitvt.github.io/chapters/chapter-40.html)
+- [第四十一章 站岸](https://stevelaitvt.github.io/chapters/chapter-41.html)
+- [第四十二章 断更](https://stevelaitvt.github.io/chapters/chapter-42.html)
+- [第四十三章 堵水](https://stevelaitvt.github.io/chapters/chapter-43.html)
+- [第四十四章 药水](https://stevelaitvt.github.io/chapters/chapter-44.html)
+- [第四十五章 短褂](https://stevelaitvt.github.io/chapters/chapter-45.html)
+
+## 潮退以前
+
+一对高中恋人走到三十岁，终于明白钱让人难，但不是钱把他们变成这样。
+
+Book page: https://stevelaitvt.github.io/books/chaotui-yiqian.html
+
+澜河市，2014到2026。周闻野和许清棠从高中晚自习里相爱，一路经过城中村拆迁、地铁口房租、2016楼市、南港厂区、7月暴雨和秋疫返乡。他们被钱推远，也被不是钱的事推远：隐瞒、缺席、替对方决定，以及一次次没有说出口的失望。
+
+### Chapters
+
+- [第一章 搬迁通知](https://stevelaitvt.github.io/chapters/chaotui-01.html)
+- [第二章 志愿表](https://stevelaitvt.github.io/chapters/chaotui-02.html)
+- [第三章 地铁口的房子](https://stevelaitvt.github.io/chapters/chaotui-03.html)
+- [第四章 安置房名单](https://stevelaitvt.github.io/chapters/chaotui-04.html)
+- [第五章 一张银行卡](https://stevelaitvt.github.io/chapters/chaotui-05.html)
+- [第六章 不回消息的人](https://stevelaitvt.github.io/chapters/chaotui-06.html)
+- [第七章 限购以后](https://stevelaitvt.github.io/chapters/chaotui-07.html)
+- [第八章 返费](https://stevelaitvt.github.io/chapters/chaotui-08.html)
+- [第九章 毕业照](https://stevelaitvt.github.io/chapters/chaotui-09.html)
+- [第十章 首付桌](https://stevelaitvt.github.io/chapters/chaotui-10.html)
+- [第十一章 分岔路](https://stevelaitvt.github.io/chapters/chaotui-11.html)
+- [第十二章 旧手机](https://stevelaitvt.github.io/chapters/chaotui-12.html)
+- [第十三章 网课](https://stevelaitvt.github.io/chapters/chaotui-13.html)
+- [第十四章 雨线](https://stevelaitvt.github.io/chapters/chaotui-14.html)
+- [第十五章 地下](https://stevelaitvt.github.io/chapters/chaotui-15.html)
+- [第十六章 白名单](https://stevelaitvt.github.io/chapters/chaotui-16.html)
+- [第十七章 秋疫](https://stevelaitvt.github.io/chapters/chaotui-17.html)
+- [第十八章 点对点](https://stevelaitvt.github.io/chapters/chaotui-18.html)
+
