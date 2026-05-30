@@ -49,3 +49,6 @@
 | 43 | [第四十三章 堵水](https://stevelaitvt.github.io/chapters/chapter-43.html) |
 | 44 | [第四十四章 药水](https://stevelaitvt.github.io/chapters/chapter-44.html) |
 | 45 | [第四十五章 短褂](https://stevelaitvt.github.io/chapters/chapter-45.html) |
+| 46 | [第四十六章 验人](https://stevelaitvt.github.io/chapters/chapter-46.html) |
+| 47 | [第四十七章 退名](https://stevelaitvt.github.io/chapters/chapter-47.html) |
+| 48 | [第四十八章 不作证](https://stevelaitvt.github.io/chapters/chapter-48.html) |
