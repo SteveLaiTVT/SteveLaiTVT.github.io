@@ -52,3 +52,6 @@
 | 46 | [第四十六章 验人](https://stevelaitvt.github.io/chapters/chapter-46.html) |
 | 47 | [第四十七章 退名](https://stevelaitvt.github.io/chapters/chapter-47.html) |
 | 48 | [第四十八章 不作证](https://stevelaitvt.github.io/chapters/chapter-48.html) |
+| 49 | [第四十九章 印匣](https://stevelaitvt.github.io/chapters/chapter-49.html) |
+| 50 | [第五十章 病退](https://stevelaitvt.github.io/chapters/chapter-50.html) |
+| 51 | [第五十一章 验名](https://stevelaitvt.github.io/chapters/chapter-51.html) |

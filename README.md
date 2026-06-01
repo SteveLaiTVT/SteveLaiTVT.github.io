@@ -17,7 +17,7 @@
 
 | 作品 | 类型 | 章节 | 状态 |
 |---|---|---:|---|
-| [水关未开](https://stevelaitvt.github.io/books/shuiguan-wei-kai.html) | 莫天祐历史小人物小说 | 48 | 连载中 |
+| [水关未开](https://stevelaitvt.github.io/books/shuiguan-wei-kai.html) | 莫天祐历史小人物小说 | 51 | 连载中 |
 | [潮退以前](https://stevelaitvt.github.io/books/chaotui-yiqian.html) | 现代现实情感小说 | 18 | 新书试读 |
 
 ## SEO 说明
