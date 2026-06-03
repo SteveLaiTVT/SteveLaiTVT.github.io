@@ -58,3 +58,6 @@
 | 52 | [第五十二章 空更](https://stevelaitvt.github.io/chapters/chapter-52.html) |
 | 53 | [第五十三章 护纸](https://stevelaitvt.github.io/chapters/chapter-53.html) |
 | 54 | [第五十四章 认责](https://stevelaitvt.github.io/chapters/chapter-54.html) |
+| 55 | [第五十五章 缺灯夜役](https://stevelaitvt.github.io/chapters/chapter-55.html) |
+| 56 | [第五十六章 周大郎归来](https://stevelaitvt.github.io/chapters/chapter-56.html) |
+| 57 | [第五十七章 船位清算](https://stevelaitvt.github.io/chapters/chapter-57.html) |
