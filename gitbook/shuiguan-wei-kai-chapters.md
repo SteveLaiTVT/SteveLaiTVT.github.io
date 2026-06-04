@@ -61,3 +61,6 @@
 | 55 | [第五十五章 缺灯夜役](https://stevelaitvt.github.io/chapters/chapter-55.html) |
 | 56 | [第五十六章 周大郎归来](https://stevelaitvt.github.io/chapters/chapter-56.html) |
 | 57 | [第五十七章 船位清算](https://stevelaitvt.github.io/chapters/chapter-57.html) |
+| 58 | [第五十八章 空船位](https://stevelaitvt.github.io/chapters/chapter-58.html) |
+| 59 | [第五十九章 退门](https://stevelaitvt.github.io/chapters/chapter-59.html) |
+| 60 | [第六十章 拔桩](https://stevelaitvt.github.io/chapters/chapter-60.html) |
