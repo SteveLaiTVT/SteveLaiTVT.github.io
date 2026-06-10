@@ -67,3 +67,6 @@
 | 61 | [第六十一章 验船](https://stevelaitvt.github.io/chapters/chapter-61.html) |
 | 62 | [第六十二章 问名](https://stevelaitvt.github.io/chapters/chapter-62.html) |
 | 63 | [第六十三章 夜役](https://stevelaitvt.github.io/chapters/chapter-63.html) |
+| 64 | [第六十四章 先救](https://stevelaitvt.github.io/chapters/chapter-64.html) |
+| 65 | [第六十五章 旧私桩](https://stevelaitvt.github.io/chapters/chapter-65.html) |
+| 66 | [第六十六章 翻桶](https://stevelaitvt.github.io/chapters/chapter-66.html) |
