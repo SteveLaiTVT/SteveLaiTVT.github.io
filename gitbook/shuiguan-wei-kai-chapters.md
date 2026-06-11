@@ -70,3 +70,6 @@
 | 64 | [第六十四章 先救](https://stevelaitvt.github.io/chapters/chapter-64.html) |
 | 65 | [第六十五章 旧私桩](https://stevelaitvt.github.io/chapters/chapter-65.html) |
 | 66 | [第六十六章 翻桶](https://stevelaitvt.github.io/chapters/chapter-66.html) |
+| 67 | [第六十七章 水债](https://stevelaitvt.github.io/chapters/chapter-67.html) |
+| 68 | [第六十八章 问文](https://stevelaitvt.github.io/chapters/chapter-68.html) |
+| 69 | [第六十九章 门槛](https://stevelaitvt.github.io/chapters/chapter-69.html) |
