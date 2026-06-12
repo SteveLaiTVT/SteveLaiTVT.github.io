@@ -73,3 +73,6 @@
 | 67 | [第六十七章 水债](https://stevelaitvt.github.io/chapters/chapter-67.html) |
 | 68 | [第六十八章 问文](https://stevelaitvt.github.io/chapters/chapter-68.html) |
 | 69 | [第六十九章 门槛](https://stevelaitvt.github.io/chapters/chapter-69.html) |
+| 70 | [第七十章 还桶](https://stevelaitvt.github.io/chapters/chapter-70.html) |
+| 71 | [第七十一章 白门](https://stevelaitvt.github.io/chapters/chapter-71.html) |
+| 72 | [第七十二章 照文灯](https://stevelaitvt.github.io/chapters/chapter-72.html) |
