@@ -76,3 +76,6 @@
 | 70 | [第七十章 还桶](https://stevelaitvt.github.io/chapters/chapter-70.html) |
 | 71 | [第七十一章 白门](https://stevelaitvt.github.io/chapters/chapter-71.html) |
 | 72 | [第七十二章 照文灯](https://stevelaitvt.github.io/chapters/chapter-72.html) |
+| 73 | [第七十三章 追桶](https://stevelaitvt.github.io/chapters/chapter-73.html) |
+| 74 | [第七十四章 缺灯](https://stevelaitvt.github.io/chapters/chapter-74.html) |
+| 75 | [第七十五章 退站](https://stevelaitvt.github.io/chapters/chapter-75.html) |
