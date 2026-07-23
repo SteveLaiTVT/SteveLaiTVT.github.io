@@ -1,6 +1,6 @@
 # 观流夫书架
 
-观流夫书架收录《水关未开》《潮退以前》等连载小说，写历史夹缝和现代城市里普通人的选择。
+观流夫书架收录《水关未开》《潮退以前》等小说，写历史夹缝和现代城市里普通人的选择。
 
 **主阅读站：[https://stevelaitvt.github.io/](https://stevelaitvt.github.io/)**  
 **RSS 更新：[https://stevelaitvt.github.io/feed.xml](https://stevelaitvt.github.io/feed.xml)**  
@@ -10,14 +10,14 @@
 
 ## 作品入口
 
-- [水关未开](https://stevelaitvt.github.io/books/shuiguan-wei-kai.html)：无名无印的守城者，在历史夹缝中守住一扇不能开的水关，也守住自己不肯交出去的东西。
+- [水关未开](https://stevelaitvt.github.io/books/shuiguan-wei-kai.html)：无名无印的守城者，在元末名分、兵粮与人命之间守住无锡，也把自己的名字留在每一道不能推给别人的命令上。
 - [潮退以前](https://stevelaitvt.github.io/books/chaotui-yiqian.html)：一对高中恋人走到三十岁，终于明白钱让人难，但不是钱把他们变成这样。
 
 ## 当前收录
 
 | 作品 | 类型 | 章节 | 状态 |
 |---|---|---:|---|
-| [水关未开](https://stevelaitvt.github.io/books/shuiguan-wei-kai.html) | 莫天祐历史小人物小说 | 75 | 连载中 |
+| [水关未开](https://stevelaitvt.github.io/books/shuiguan-wei-kai.html) | 莫天祐历史小人物小说 | 100 | 已完结 |
 | [潮退以前](https://stevelaitvt.github.io/books/chaotui-yiqian.html) | 现代现实情感小说 | 18 | 新书试读 |
 
 ## SEO 说明

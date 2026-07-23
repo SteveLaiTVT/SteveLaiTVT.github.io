@@ -1,10 +1,10 @@
 # 导读
 
-观流夫书架是观流夫的连载小说书架，目前收录《水关未开》和《潮退以前》。GitBook 适合作为外部分发页、作品简介页和搜索入口；正式阅读、章节跳转、SEO canonical 与结构化数据集中在主站。
+观流夫书架是观流夫的小说书架，目前收录《水关未开》和《潮退以前》。GitBook 适合作为外部分发页、作品简介页和搜索入口；正式阅读、章节跳转、SEO canonical 与结构化数据集中在主站。
 
 ## 直接阅读
 
-- [水关未开](https://stevelaitvt.github.io/books/shuiguan-wei-kai.html)：无名无印的守城者，在历史夹缝中守住一扇不能开的水关，也守住自己不肯交出去的东西。
+- [水关未开](https://stevelaitvt.github.io/books/shuiguan-wei-kai.html)：无名无印的守城者，在元末名分、兵粮与人命之间守住无锡，也把自己的名字留在每一道不能推给别人的命令上。
 - [潮退以前](https://stevelaitvt.github.io/books/chaotui-yiqian.html)：一对高中恋人走到三十岁，终于明白钱让人难，但不是钱把他们变成这样。
 
 ## 为什么导向主站
