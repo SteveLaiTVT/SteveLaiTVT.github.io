@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-server.log
-server.pid
-*.bak
-*.tmp
-.DS_Store
