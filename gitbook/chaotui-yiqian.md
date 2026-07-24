@@ -1,7 +1,10 @@
 # 潮退以前
 
-**开始阅读：[潮退以前](https://stevelaitvt.github.io/books/chaotui-yiqian.html)**  
+**开始阅读：[潮退以前](https://stevelaitvt.github.io/books/chaotui-yiqian.html)**
+
 **章节索引：[GitBook 索引](./chaotui-yiqian-chapters.md)**
+
+**状态：新书试读，共 21 章**
 
 ## 一句话
 

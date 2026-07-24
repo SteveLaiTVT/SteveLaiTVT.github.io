@@ -22,3 +22,6 @@
 | 16 | [第十六章 白名单](https://stevelaitvt.github.io/chapters/chaotui-16.html) |
 | 17 | [第十七章 秋疫](https://stevelaitvt.github.io/chapters/chaotui-17.html) |
 | 18 | [第十八章 点对点](https://stevelaitvt.github.io/chapters/chaotui-18.html) |
+| 19 | [第十九章 情况说明](https://stevelaitvt.github.io/chapters/chaotui-19.html) |
+| 20 | [第二十章 降价以后](https://stevelaitvt.github.io/chapters/chaotui-20.html) |
+| 21 | [第二十一章 紧急联系人](https://stevelaitvt.github.io/chapters/chaotui-21.html) |

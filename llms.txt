@@ -126,7 +126,7 @@ Book page: https://stevelaitvt.github.io/books/shuiguan-wei-kai.html
 一对高中恋人走到三十岁，终于明白钱让人难，但不是钱把他们变成这样。
 
 Status: 新书试读
-Chapters: 18
+Chapters: 21
 Book page: https://stevelaitvt.github.io/books/chaotui-yiqian.html
 
 澜河市，2014到2026。周闻野和许清棠从高中晚自习里相爱，一路经过城中村拆迁、地铁口房租、2016楼市、南港厂区、7月暴雨和秋疫返乡。他们被钱推远，也被不是钱的事推远：隐瞒、缺席、替对方决定，以及一次次没有说出口的失望。
@@ -151,4 +151,7 @@ Book page: https://stevelaitvt.github.io/books/chaotui-yiqian.html
 - [第十六章 白名单](https://stevelaitvt.github.io/chapters/chaotui-16.html)
 - [第十七章 秋疫](https://stevelaitvt.github.io/chapters/chaotui-17.html)
 - [第十八章 点对点](https://stevelaitvt.github.io/chapters/chaotui-18.html)
+- [第十九章 情况说明](https://stevelaitvt.github.io/chapters/chaotui-19.html)
+- [第二十章 降价以后](https://stevelaitvt.github.io/chapters/chaotui-20.html)
+- [第二十一章 紧急联系人](https://stevelaitvt.github.io/chapters/chaotui-21.html)
 
